@@ -21,7 +21,7 @@ Create • Read • Update • Delete — All in one elegant GUI.
 ---
 
 ## 📷 Screenshot
-
+(image) Screenshot 2025-08-16 155049.png
 
 ----
 
